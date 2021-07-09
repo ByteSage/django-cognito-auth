@@ -1,4 +1,4 @@
-django-cognito-auth
+# django-cognito-auth
 Django user authentication using cognito
 
 Please export following env var
