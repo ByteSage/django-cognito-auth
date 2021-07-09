@@ -2,7 +2,7 @@
 Django user authentication using cognito
 
 Please export following env var
-
+```
 export COGNITO_USER_POOL_ID="" 
 export COGNITO_APP_CLIENT_ID="" 
 export COGNITO_APP_CLIENT_SECRET="" 
@@ -13,3 +13,4 @@ export S3_BUCKET=""
 export DB_NAME="" 
 export DB_USERNAME="" 
 export DB_PASSWORD="" 
+```
